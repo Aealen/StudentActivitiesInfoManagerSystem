@@ -1,0 +1,2 @@
+# StudentActivitiesInfoManagerSystem
+学生活动信息管理系统
